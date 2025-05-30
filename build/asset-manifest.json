@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Pathik/static/css/main.e016d95c.css",
+    "main.js": "/Portfolio_Pathik/static/js/main.27c72aee.js",
+    "static/media/Hello.gif": "/Portfolio_Pathik/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/PanchalPathikResume.pdf": "/Portfolio_Pathik/static/media/PanchalPathikResume.1fa523580068fa83cd5a.pdf",
+    "static/media/postman.png": "/Portfolio_Pathik/static/media/postman.56e701cdd4da42f0d5d9.png",
+    "static/media/googleplay.png": "/Portfolio_Pathik/static/media/googleplay.1a8c48fc01395d25f0e7.png",
+    "static/media/PathikNew.jpg": "/Portfolio_Pathik/static/media/PathikNew.dab53774d31610976e40.jpg",
+    "static/media/javaicon.png": "/Portfolio_Pathik/static/media/javaicon.a29fe2b50ba1a05eb81f.png",
+    "static/media/firebase.png": "/Portfolio_Pathik/static/media/firebase.caa2b2d5a6080574f6bc.png",
+    "static/media/illustration.svg": "/Portfolio_Pathik/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/node-icon.svg": "/Portfolio_Pathik/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/Portfolio_Pathik/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/whatsapp.svg": "/Portfolio_Pathik/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/react-icon.svg": "/Portfolio_Pathik/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/Portfolio_Pathik/index.html",
+    "static/media/phone-icon.svg": "/Portfolio_Pathik/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/email-icon.svg": "/Portfolio_Pathik/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/linkedin.svg": "/Portfolio_Pathik/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/Portfolio_Pathik/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "main.e016d95c.css.map": "/Portfolio_Pathik/static/css/main.e016d95c.css.map",
+    "main.27c72aee.js.map": "/Portfolio_Pathik/static/js/main.27c72aee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e016d95c.css",
+    "static/js/main.27c72aee.js"
+  ]
+}
