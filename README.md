@@ -1,6 +1,6 @@
 # Portfolio of Pathik Panchal
 
-<img src="https://github.com/CodeVinayak/CodeVinayak/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.vinayaksingh.in.png" alt="Portfolio Preview" width="100%" />
+<img src="https://github.com/Pathik1993/Portfolio_Pathik/blob/main/Screenshot_Pathik.png" alt="Portfolio Preview" width="100%" />
 
 Welcome to my personal portfolio website! I'm Pathik Panchal, a passionate React Native Developer. This site serves as a digital introduction to who I am — highlighting my skills, projects, and contact information.
 
